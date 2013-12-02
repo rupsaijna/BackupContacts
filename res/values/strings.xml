@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Backup_contactsActivity!</string>
+    <string name="app_name">Backup_contacts</string>
+   <string name="all">all</string>
+   <string name="one_by_one">one_by_one</string>
+   <string name="exit">exit</string>
+   
+
+</resources>
